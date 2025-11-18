@@ -1,0 +1,2 @@
+/Users/omjagtap/Documents/projects/RAG-Email-Sorting/gmail_fetcher.py:53: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute('''

@@ -1,0 +1,359 @@
+==== Run at Mon Nov 17 10:37:44 CST 2025 ====
+Database 'my_emails.db' is ready.
+Found 50 emails. Processing...
+  > Saved new email to DB: JPMorgan - XML - 2026 Quantitative Finan...
+  > Saved new email to DB: Our Biggest Exam Prep Sale of 2025 Start...
+  > Saved new email to DB: It's Time, Holiday Savings are LIVE!...
+  > Saved new email to DB: You added or edited Rahul Krishnan 844 a...
+  > Saved new email to DB: Engineering Intern jobs in Chicago, IL...
+  > Saved new email to DB: Free Workout Week Starts Today!...
+  > Saved new email to DB: Check out these new Cyber Security - Int...
+  > Saved new email to DB: Was your Canva wish granted? 🪄...
+  > Saved new email to DB: Your latest Jewel-Osco flyer...
+  > Saved new email to DB: GRE Question of the Day for November 17...
+  > Saved new email to DB: BOOK ONLINE! www.alanitatravel.com ✈️ AL...
+  > Saved new email to DB: Early Access Black Friday: up to 40% off...
+  > Saved new email to DB: Bring 4+ to Play & You’ll Get FREE Donut...
+  > Saved new email to DB: Discover Deals Too Hot to Last 🔥...
+  > Saved new email to DB: Last Chance! Michael Kors Outlet 👜...
+  > Saved new email to DB: Join Marriott Bonvoy, earn 100 Stars ⭐...
+  > Saved new email to DB: Discover Visa: Unveiling Our Global Impa...
+  > Saved new email to DB: I want to connect...
+  > Saved new email to DB: You Can Count on Southwest....
+  > Saved new email to DB: Gemini 3 this week 🤖, GPT-5.1 AMA 💬, Kos...
+  > Saved new email to DB: Last day: 20% off in the app...
+  > Saved new email to DB: End the Data Divide: Unify Transactions ...
+  > Saved new email to DB: Tello Unlimited Plan for $15/mo first 3 ...
+  > Saved new email to DB: JPM Coin 🪙, PayPal UK rewards 🎁, Intuit'...
+  > Saved new email to DB: It’s on: up to 50% off Mous...
+  > Saved new email to DB: Look your best this Thanksgiving...
+  > Saved new email to DB: New job(s) match your search on Google C...
+  > Saved new email to DB: Double-digit discount inside 👀...
+  > Saved new email to DB: 🔥 Holiday savings just dropped - save $1...
+  > Saved new email to DB: 50% off I.N.C. sweaters & more Macy’s Ex...
+  > Saved new email to DB: Refer Credila to Your Friends for an Edu...
+  > Saved new email to DB: Your Education Loan Application is Pendi...
+  > Saved new email to DB: Giveaway - Workplace Stress Management S...
+  > Saved new email to DB: Your Education Loan Application is Pendi...
+  > Saved new email to DB: 5 Massive Books That Are Worth Your Time...
+  > Saved new email to DB: Your Education Loan Application is Pendi...
+  > Saved new email to DB: Is your skincare routine ready for winte...
+  > Saved new email to DB: Supercookie 🍪, JS engine in Rust 💡, TCP ...
+  > Saved new email to DB: Make the most of Monday- Connect Now!...
+  > Saved new email to DB: Be the first to apply to AI/ML at Adidev...
+  > Saved new email to DB: SHEINCollabs | Icons in Your Wardrobe 💫...
+  > Saved new email to DB: Tim Cook plans exit 👋, Elon's interview ...
+  > Saved new email to DB: Treat them (or yourself) with tech...
+  > Saved new email to DB: I want to connect...
+  > Saved new email to DB: Your Austin Ticket Update...
+  > Saved new email to DB: A bite you can’t refuse 😏...
+  > Saved new email to DB: Discord Password Changed...
+  > Saved new email to DB: Free shipping + up to extra 20% off ends...
+  > Saved new email to DB: Under $100! Holiday dresses...
+  > Saved new email to DB: Everyone's favorite gifts under $50...
+
+Phase 1 (Ingestion & Storage) complete.
+Starting Phase 2: Indexing...
+Google API Key configured successfully.
+Initializing ChromaDB at 'email_vector_db'...
+Connecting to my_emails.db to fetch new emails...
+Found 50 new emails to index.
+
+Processing email ID: 1 (Subject: JPMorgan - XML - 2026 Quantitative Finan...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 2 (Subject: Our Biggest Exam Prep Sale of 2025 Start...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 3 (Subject: It's Time, Holiday Savings are LIVE!...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 4 (Subject: You added or edited Rahul Krishnan 844 a...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 5 (Subject: Engineering Intern jobs in Chicago, IL...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 6 (Subject: Free Workout Week Starts Today!...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 7 (Subject: Check out these new Cyber Security - Int...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 8 (Subject: Was your Canva wish granted? 🪄...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 9 (Subject: Your latest Jewel-Osco flyer...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 10 (Subject: GRE Question of the Day for November 17...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 11 (Subject: BOOK ONLINE! www.alanitatravel.com ✈️ AL...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 12 (Subject: Early Access Black Friday: up to 40% off...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 13 (Subject: Bring 4+ to Play & You’ll Get FREE Donut...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 14 (Subject: Discover Deals Too Hot to Last 🔥...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 15 (Subject: Last Chance! Michael Kors Outlet 👜...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 16 (Subject: Join Marriott Bonvoy, earn 100 Stars ⭐...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 17 (Subject: Discover Visa: Unveiling Our Global Impa...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 18 (Subject: I want to connect...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 19 (Subject: You Can Count on Southwest....)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 20 (Subject: Gemini 3 this week 🤖, GPT-5.1 AMA 💬, Kos...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 21 (Subject: Last day: 20% off in the app...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 22 (Subject: End the Data Divide: Unify Transactions ...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 23 (Subject: Tello Unlimited Plan for $15/mo first 3 ...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 24 (Subject: JPM Coin 🪙, PayPal UK rewards 🎁, Intuit'...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 25 (Subject: It’s on: up to 50% off Mous...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 26 (Subject: Look your best this Thanksgiving...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 27 (Subject: New job(s) match your search on Google C...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 28 (Subject: Double-digit discount inside 👀...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 29 (Subject: 🔥 Holiday savings just dropped - save $1...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 30 (Subject: 50% off I.N.C. sweaters & more Macy’s Ex...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 31 (Subject: Refer Credila to Your Friends for an Edu...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 32 (Subject: Your Education Loan Application is Pendi...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 33 (Subject: Giveaway - Workplace Stress Management S...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 34 (Subject: Your Education Loan Application is Pendi...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 35 (Subject: 5 Massive Books That Are Worth Your Time...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 36 (Subject: Your Education Loan Application is Pendi...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 37 (Subject: Is your skincare routine ready for winte...)
+  > Generated 6 chunks.
+  > Successfully embedded 6 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 38 (Subject: Supercookie 🍪, JS engine in Rust 💡, TCP ...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 39 (Subject: Make the most of Monday- Connect Now!...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 40 (Subject: Be the first to apply to AI/ML at Adidev...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 41 (Subject: SHEINCollabs | Icons in Your Wardrobe 💫...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 42 (Subject: Tim Cook plans exit 👋, Elon's interview ...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 43 (Subject: Treat them (or yourself) with tech...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 44 (Subject: I want to connect...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 45 (Subject: Your Austin Ticket Update...)
+  > Generated 43 chunks.
+  > Successfully embedded 43 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 46 (Subject: A bite you can’t refuse 😏...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 47 (Subject: Discord Password Changed...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 48 (Subject: Free shipping + up to extra 20% off ends...)
+  > Generated 1 chunks.
+  > Successfully embedded 1 chunks.
+  > Added chunks to ChromaDB.
+  > Waiting 1 second...
+
+Processing email ID: 49 (Subject: Under $100! Holiday dresses...)
+  > No valid chunks found. Marking as processed.
+
+Processing email ID: 50 (Subject: Everyone's favorite gifts under $50...)
+  > No valid chunks found. Marking as processed.
+Marking 50 emails as processed in my_emails.db...
+
+==================================================
+Phase 2 (Indexing) complete.
+Total emails processed this run: 50
+Your 'smart library' is now in the 'email_vector_db' folder.
+Total documents in vector DB: 83
+==================================================
+Starting Phase 3: Report Generation...
+Initializing services...
+Google API Key configured successfully.
+ChromaDB collection 'emails' loaded. Total documents: 83
+
+Querying vector DB for: 'What is the status of my job applications? List an...'
+  > Found 5 relevant chunks.
+  > Calling LLM to generate report section...
+
+Querying vector DB for: 'What are the key updates from my bank? List any im...'
+  > Found 5 relevant chunks.
+  > Calling LLM to generate report section...
+
+Querying vector DB for: 'Did I receive any new messages or important notifi...'
+  > Found 5 relevant chunks.
+  > Calling LLM to generate report section...
+
+Querying vector DB for: 'Are there any urgent emails about my apartment ren...'
+  > Found 5 relevant chunks.
+  > Calling LLM to generate report section...
+
+Querying vector DB for: 'What are all the clear action items, tasks, or req...'
+  > Found 5 relevant chunks.
+  > Calling LLM to generate report section...
+
+==================================================
+Phase 3 (Generation) complete!
+Your new report is saved as: daily_report_2025-11-17.md
+==================================================
+Starting Phase 4: Sending Report...
+Report file found. Preparing to send to omjagtap15@gmail.com...
+Message Id: 19a92af90f2a965a sent.
+Phase 4 (Email Report) complete.
