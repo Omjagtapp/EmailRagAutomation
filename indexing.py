@@ -8,7 +8,7 @@ import os
 
 # 1. PASTE YOUR GOOGLE API KEY HERE
 # Get your key from https://aistudio.google.com/app/apikey
-GOOGLE_API_KEY = "AIzaSyC5FwoT23hPGxai1RDoBydGcVLVl4bXjVM"
+GOOGLE_API_KEY = "YOUR API KEY"
 
 # 2. Database file from Phase 1
 DB_FILE = "my_emails.db"
