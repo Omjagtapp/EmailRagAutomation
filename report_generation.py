@@ -6,7 +6,8 @@ import datetime
 
 # 1. PASTE YOUR GOOGLE API KEY HERE (from Phase 2)
 # Get your key from https://aistudio.google.com/app/apikey
-GOOGLE_API_KEY = "AIzaSyC5FwoT23hPGxai1RDoBydGcVLVl4bXjVM"
+GOOGLE_API_KEY = "YOUR API KEY
+"
 
 # 2. Path to the vector database (from Phase 2)
 CHROMA_PATH = "email_vector_db"
